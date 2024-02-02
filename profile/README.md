@@ -1,1 +1,1 @@
-# organization for egret devloper
+# organization for egret developer
